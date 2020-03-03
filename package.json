@@ -1,6 +1,6 @@
 {
   "name": "set-interval-immediately",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "To execute callback function of setInterval immediately",
   "homepage": "https://github.com/shuaibird/set-interval-immediately",
   "bugs": {
