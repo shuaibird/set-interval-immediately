@@ -7,9 +7,9 @@ npm install set-interval-immediately --save
 ```
 
 ## Usage
-The same as `setInterval` and works in both browsers & node.js.
+The same usage as `setInterval` and works in both browsers & node.js.
 ```javascript
-const setIntervalImmediately = require('set-interval-immediately')
+const setIntervalImmediately = require('set-interval-immediately');
 
 setIntervalImmediately(
   () => console.log(`I'd be executed immediately`),
