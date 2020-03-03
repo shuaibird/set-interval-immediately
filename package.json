@@ -1,0 +1,27 @@
+{
+  "name": "set-interval-immediately",
+  "version": "1.0.0",
+  "description": "To execute callback function of setInterval immediately",
+  "homepage": "https://github.com/shuaibird/set-interval-immediately",
+  "bugs": {
+    "url": "https://github.com/shuaibird/set-interval-immediately/issues",
+    "email": "shuaibird@icloud.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shuaibird/set-interval-immediately"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "setInterval"
+  ],
+  "author": {
+    "name": "shuaibird",
+    "email": "shuaibird@icloud.com",
+    "url": "https://github.com/shuaibird"
+  },
+  "license": "ISC"
+}
